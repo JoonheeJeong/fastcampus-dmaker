@@ -1,0 +1,11 @@
+PUT http://localhost:8080/edit-developer
+Content-Type: application/json
+
+{
+  "memberId": "dog_gg",
+  "developerType": "BACK_END",
+  "developerLevel": "JUNIOR",
+  "experienceYears": 2,
+  "name": "mongmong",
+  "age": "25"
+}

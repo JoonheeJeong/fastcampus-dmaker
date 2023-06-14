@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/developer/dog_ggg
+Content-Type: application/json
